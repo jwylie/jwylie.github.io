@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jordan Wylie"
   avatar           : "profile.png"
-  bio              : "A Carnegie Trust PhD student at Edinburgh Napier University researching federated machine unlearning."
+  bio              : 
   location         : "Edinburgh, United Kingdom"
   employer         :
   pubmed           : 

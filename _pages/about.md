@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a Carnegie Trust PhD student at Edinburgh Napier University researching federated machine unlearning.
+I am a Carnegie Trust PhD student at Edinburgh Napier University researching federated machine unlearning.  I have previously completed MSc and BEng (Hons) degrees at Edinburgh Napier University.
